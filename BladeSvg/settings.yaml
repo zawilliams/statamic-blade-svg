@@ -1,0 +1,23 @@
+fields:
+  general:
+    type: section
+  svg_path:
+    display: SVG Path
+    type: text
+    validate: required
+    width: 100
+  svg_spritesheet_path:
+    display: Spritesheet Path
+    type: text
+    width: 100
+  svg_spritesheet_url:
+    display: Spritesheet URL
+    type: text
+    width: 100
+  svg_inline:
+    display: Inline
+    type: toggle
+  svg_class:
+    display: Class
+    type: text
+    width: 100

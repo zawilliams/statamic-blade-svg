@@ -1,0 +1,6 @@
+name: 'Blade SVG'
+version: '1.0'
+description: Easily inline SVG images in your Blade templates with Statamic.
+url: https://github.com/zawilliams/statamic-blade-svg
+developer: Zach Williams
+developer_url: zachwilliams.me
