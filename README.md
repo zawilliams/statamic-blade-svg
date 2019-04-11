@@ -1,4 +1,4 @@
-# Blave SVG for Statamic ![Statamic 2.11](https://img.shields.io/badge/statamic-2.11-blue.svg?style=flat-square)
+# Blade SVG for Statamic ![Statamic 2.11](https://img.shields.io/badge/statamic-2.11-blue.svg?style=flat-square)
 
 Use [Blade SVG](https://github.com/adamwathan/blade-svg) with Statamic in Blade templates.
 
